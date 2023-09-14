@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @DrakonZZZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<font size="2"><strong>THIS IS DEFO GOING TO CHANGE</strong></font>
-
-<!---
-DrakonZZZ/DrakonZZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Alt text](https://raw.githubusercontent.com/DrakonZZZ/DrakonZZZ/main/vintage.png)
